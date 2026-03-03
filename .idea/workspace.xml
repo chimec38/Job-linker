@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3876fd-fc43-4259-a081-c642f7690e78" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoProject1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/CVupload.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/CVupload.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/DashboardLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/DashboardLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Hero.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/JobCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/JobCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Jobs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/PasswordInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/PasswordInput.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/PrivateRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/PrivateRoute.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/ProtectedRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/ProtectedRoute.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Sidebar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/UserDropdown.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/UserDropdown.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/context.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/CompanyDashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/CompanyDashboard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Dashboard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Jobs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Jobs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Signup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Signup.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/UserDashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/UserDashboard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/CompanyDashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/CompanyDashboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/UserDashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/UserDashboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/auth.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/jobs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="3d3876fd-fc43-4259-a081-c642f7690e78" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +121,7 @@
       <workItem from="1768563455336" duration="2578000" />
       <workItem from="1768852150363" duration="824000" />
       <workItem from="1769007180898" duration="46000" />
-      <workItem from="1772533116967" duration="3508000" />
+      <workItem from="1772533116967" duration="3851000" />
     </task>
     <servers />
   </component>
