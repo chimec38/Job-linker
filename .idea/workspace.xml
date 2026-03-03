@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3876fd-fc43-4259-a081-c642f7690e78" name="Changes" comment="" />
+    <list default="true" id="3d3876fd-fc43-4259-a081-c642f7690e78" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vercel.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +70,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chied\PycharmProjects\DjangoProject1\frontend" />
       <recent name="C:\Users\chied\PycharmProjects\DjangoProject1\frontend\src\styles" />
       <recent name="C:\Users\chied\PycharmProjects\DjangoProject1\frontend\src\pages" />
     </key>
@@ -121,7 +125,7 @@
       <workItem from="1768563455336" duration="2578000" />
       <workItem from="1768852150363" duration="824000" />
       <workItem from="1769007180898" duration="46000" />
-      <workItem from="1772533116967" duration="5823000" />
+      <workItem from="1772533116967" duration="6646000" />
     </task>
     <servers />
   </component>
