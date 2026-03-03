@@ -1,5 +1,15 @@
 {
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "buildCommand": "npm run build",
+        "outputDirectory": "build"
+      }
+    }
+  ],
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "devCommand": "npm start",
