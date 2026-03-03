@@ -1,0 +1,161 @@
+.dashboard-container {
+  padding: 20px;
+  background-color: #0f0f1a; /* match auth background */
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+/* Dashboard Title */
+.dashboard-title {
+  font-size: 2.5rem;
+  margin-bottom: 25px;
+  color: white;
+  font-weight: 700;
+}
+
+/* Stats Cards */
+.stats-cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.card {
+  flex: 1;
+  min-width: 180px;
+  background: rgba(255, 255, 255, 0.08); /* match glass card */
+  backdrop-filter: blur(15px);
+  padding: 20px;
+  border-radius: 24px;
+  text-align: center;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 30px 80px rgba(0,0,0,0.7);
+}
+
+.card h3 {
+  font-size: 16px;
+  color: rgba(255,255,255,0.7);
+}
+
+.card p {
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 10px;
+  color: white;
+}
+
+/* CV Upload */
+.cv-upload {
+  border: 2px dashed rgba(255,255,255,0.4);
+  padding: 30px;
+  text-align: center;
+  border-radius: 24px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  transition: border-color 0.3s, background 0.3s;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(15px);
+}
+
+.cv-upload:hover {
+  border-color: #9b5cff;
+  background: rgba(255,255,255,0.12);
+}
+
+.cv-upload p {
+  color: rgba(255,255,255,0.8);
+  font-size: 14px;
+}
+
+/* Uploaded files list */
+.cv-list {
+  margin-bottom: 25px;
+  list-style: none;
+  padding-left: 0;
+}
+
+.cv-list li {
+  padding: 5px 0;
+  color: rgba(255,255,255,0.9);
+}
+
+/* Search Input */
+.search-input {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 12px;
+  border: none;
+  background: rgba(255,255,255,0.08);
+  color: white;
+  outline: none;
+  font-size: 1rem;
+}
+
+.search-input::placeholder {
+  color: rgba(255,255,255,0.6);
+}
+
+/* Table */
+.table-container {
+  overflow-x: auto;
+  margin-bottom: 30px;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(15px);
+  border-radius: 24px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px 15px;
+  color: white;
+}
+
+th {
+  text-align: left;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+  opacity: 0.8;
+}
+
+tr:hover {
+  background: rgba(155, 92, 255, 0.15); /* subtle accent on hover */
+}
+
+/* Chart Container */
+.chart-container {
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(15px);
+  padding: 20px;
+  border-radius: 24px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+  margin-bottom: 30px;
+}
+
+.chart-container h3 {
+  margin-bottom: 15px;
+  font-weight: 600;
+  color: white;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .stats-cards {
+    flex-direction: column;
+  }
+
+  .dashboard-title {
+    font-size: 2rem;
+  }
+}
